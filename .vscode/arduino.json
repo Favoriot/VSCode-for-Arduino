@@ -1,0 +1,5 @@
+{
+    "sketch": "Blink.ino",
+    "port": "COM12",
+    "board": "Intel:i586:izmir_fg"
+}
