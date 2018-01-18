@@ -26,7 +26,7 @@ Go to Extensions -> Search for "Arduino", select and install the extension by Mi
 
 **Configure Intellisense**
 
-[![Screen Shot](images/Capture.PNG)]
+[![Screen Shot](https://favoriot.github.io/image/Capture.PNG)]
 
 Press F1 (Command Palette) -> Search for "User Settings", and on the right panel *User Settings*, add 
 `"C_Cpp.intelliSenseEngine": "Tag Parser",` before the next item in the object.
