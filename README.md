@@ -46,3 +46,11 @@ Most if not all of Arduino IDE's special features can be access through F1 follo
 * Upload: Ctrl + Alt + U
 * Open Serial Monitor: Search for "Open Serial Monitor" in the command palette
 * Close Serial Monitor: Search for "Close Serial Monitor" in the command palette
+* Arduino Examples: Search for "Arduino Examples" in the command palette
+* Change Baud Rate: Same as above
+* Send Text to Serial Port: Same as above
+
+For a more comprehensive list on what commands are there in the extension, visit the [extension page](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino) or type `Arduino` in the command palette to see the list of functions.
+
+# Special Thanks
+[Favoriot](https://favoriot.com/)
